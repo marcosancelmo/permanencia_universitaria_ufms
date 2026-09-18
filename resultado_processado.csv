@@ -1,0 +1,611 @@
+﻿ano;semestre;unidade;curso;qtd_ingressos;qtd_egressos;evasao
+2025;1;AGEAD;Curso Superior de Tecnologia da Informação;512;110.0;78.5
+2025;1;AGEAD;Curso Superior de Tecnologia de Ciência dos Dados;503;79.0;84.3
+2025;1;AGEAD;Curso Superior de Tecnologia em Gestão Comercial;382;22.0;94.2
+2025;1;AGEAD;Curso Superior de Tecnologia em Gestão de Mídias Sociais Digitais;204;16.0;92.2
+2025;1;AGEAD;Curso Superior de Tecnologia em Gestão de Recursos Humanos;407;50.0;87.7
+2025;1;AGEAD;Curso Superior de Tecnologia em Gestão de Serviços Jurídicos e Notariais;296;33.0;88.9
+2025;1;AGEAD;Curso Superior de Tecnologia em Processos Gerenciais;295;70.0;76.3
+2025;1;CPAN;Administração;50;6.0;88.0
+2025;1;CPAN;Ciências Biológicas;35;3.0;91.4
+2025;1;CPAN;Ciências Contábeis - Bacharelado;55;2.0;96.4
+2025;1;CPAN;Direito;54;8.0;85.2
+2025;1;CPAN;Educação Física;2;2.0;0.0
+2025;1;CPAN;Geografia - Licenciatura;45;1.0;97.8
+2025;1;CPAN;História - Licenciatura;35;1.0;97.1
+2025;1;CPAN;Letras - Licenciatura - Habilitação em Português/Inglês;40;1.0;97.5
+2025;1;CPAN;Psicologia;54;3.0;94.4
+2025;1;CPAN;Sistemas de Informação - Bacharelado;55;2.0;96.4
+2025;1;CPAQ;Administração;66;8.0;87.9
+2025;1;CPAQ;Ciências Biológicas;53;6.0;88.7
+2025;1;CPAQ;Geografia;45;3.0;93.3
+2025;1;CPAQ;História;39;5.0;87.2
+2025;1;CPAQ;Letras - Português e Espanhol;23;2.0;91.3
+2025;1;CPAQ;Letras - Português e Inglês;32;2.0;93.8
+2025;1;CPAQ;Matemática;23;2.0;91.3
+2025;1;CPAQ;Pedagogia;54;1.0;98.1
+2025;1;CPAR;Administração;51;4.0;92.2
+2025;1;CPCS;Administração;53;3.0;94.3
+2025;1;CPCS;Agronomia;57;9.0;84.2
+2025;1;CPCS;Engenharia Florestal - Bacharelado;36;3.0;91.7
+2025;1;CPCX;Letras - Português - Licenciatura;42;3.0;92.9
+2025;1;CPNA;Administração - Bacharelado;72;8.0;88.9
+2025;1;CPNA;Ciências Contábeis;40;2.0;95.0
+2025;1;CPNA;Engenharia de Produção;51;2.0;96.1
+2025;1;CPNA;História - Licenciatura;34;3.0;91.2
+2025;1;CPNV;Administração;45;1.0;97.8
+2025;1;CPNV;Arquitetura e Urbanismo;33;4.0;87.9
+2025;1;CPPP;Pedagogia;50;4.0;92.0
+2025;1;CPPP;Sistemas de Informação - Bacharelado;44;5.0;88.6
+2025;1;CPTL;Administração;63;8.0;87.3
+2025;1;CPTL;Ciências Biológicas;68;1.0;98.5
+2025;1;CPTL;Ciências Contábeis;52;8.0;84.6
+2025;1;CPTL;Direito;17;6.0;64.7
+2025;1;CPTL;Enfermagem;44;4.0;90.9
+2025;1;CPTL;Engenharia de Produção;56;5.0;91.1
+2025;1;CPTL;Geografia;27;2.0;92.6
+2025;1;CPTL;Letras - Português e Inglês;32;5.0;84.4
+2025;1;CPTL;Medicina;71;5.0;93.0
+2025;1;CPTL;Pedagogia;41;1.0;97.6
+2025;1;ESAN;Administração - Bacharelado;129;44.0;65.9
+2025;1;ESAN;Ciências Contábeis - Bacharelado;61;4.0;93.4
+2025;1;ESAN;Ciências Econômicas - Bacharelado;61;5.0;91.8
+2025;1;ESAN;Curso Superior de Tecnologia em Processos Gerenciais;69;7.0;89.9
+2025;1;ESAN;Turismo - Bacharelado;55;16.0;70.9
+2025;1;FAALC;Artes Visuais Habilitação em Artes Plásticas Bacharelado;33;5.0;84.8
+2025;1;FAALC;Artes Visuais - Licenciatura - Habilitação em Artes Plásticas;33;1.0;97.0
+2025;1;FAALC;Audiovisual;30;8.0;73.3
+2025;1;FAALC;Jornalismo;51;9.0;82.4
+2025;1;FAALC;Letras - Português e Espanhol - Licenciatura;69;3.0;95.7
+2025;1;FAALC;Letras - Português e Inglês - Licenciatura;53;6.0;88.7
+2025;1;FAALC;Música;32;6.0;81.2
+2025;1;FACFAN;Engenharia de Alimentos;59;7.0;88.1
+2025;1;FACFAN;Farmácia;57;11.0;80.7
+2025;1;FACFAN;Nutrição;59;5.0;91.5
+2025;1;FACH;Ciências Sociais;68;2.0;97.1
+2025;1;FACH;Filosofia;77;6.0;92.2
+2025;1;FACH;História - Licenciatura;60;5.0;91.7
+2025;1;FACH;Psicologia - Bacharelado;65;3.0;95.4
+2025;1;FACOM;Ciência da Computação;65;15.0;76.9
+2025;1;FACOM;Engenharia de Computação;72;14.0;80.6
+2025;1;FACOM;Engenharia de Software;79;10.0;87.3
+2025;1;FACOM;Sistemas de Informação;75;3.0;96.0
+2025;1;FADIR;Direito;62;40.0;35.5
+2025;1;FAED;Educação Física;49;7.0;85.7
+2025;1;FAED;Educação Física - Bacharelado;53;9.0;83.0
+2025;1;FAED;Pedagogia;51;20.0;60.8
+2025;1;FAENG;Arquitetura e Urbanismo - Bacharelado;53;7.0;86.8
+2025;1;FAENG;Engenharia Ambiental;5;8.0;-60.0
+2025;1;FAENG;Engenharia Civil;59;8.0;86.4
+2025;1;FAENG;Engenharia de Produção;83;7.0;91.6
+2025;1;FAENG;Engenharia Elétrica;87;3.0;96.6
+2025;1;FAENG;Geografia - Bacharelado;60;3.0;95.0
+2025;1;FAMEZ;Medicina Veterinária;52;5.0;90.4
+2025;1;FAMEZ;Zootecnia - Bacharelado;52;2.0;96.2
+2025;1;INBIO;Ciências Biológicas;56;4.0;92.9
+2025;1;INBIO;Ciências Biológicas - Bacharelado;63;6.0;90.5
+2025;1;INFI;Engenharia Física;28;1.0;96.4
+2025;1;INFI;Física;40;2.0;95.0
+2025;1;INFI;Física - Bacharelado;29;2.0;93.1
+2025;1;INISA;Enfermagem;57;1.0;98.2
+2025;1;INISA;Fisioterapia;53;5.0;90.6
+2025;1;INMA;Matemática;43;1.0;97.7
+2025;1;INMA;Matemática - Licenciatura;53;6.0;88.7
+2025;1;INQUI;Engenharia Química;61;2.0;96.7
+2025;1;INQUI;Química - Bacharelado em Química Tecnológica;26;3.0;88.5
+2025;2;AGEAD;Curso Superior de Tecnologia em Gestão de Mídias Sociais Digitais;14;44.0;-214.3
+2025;2;CPAN;Letras - Licenciatura - Habilitação em Português/Inglês;7;3.0;57.1
+2025;2;CPAN;Matemática - Licenciatura;3;2.0;33.3
+2025;2;CPAQ;Geografia;12;9.0;25.0
+2025;2;CPAQ;História;1;8.0;-700.0
+2025;2;CPAQ;Letras - Português e Espanhol;2;2.0;0.0
+2025;2;CPAQ;Letras - Português e Inglês;2;7.0;-250.0
+2025;2;CPAQ;Matemática;1;7.0;-600.0
+2025;2;CPAR;Matemática - Licenciatura;3;4.0;-33.3
+2025;2;CPAR;Psicologia - Bacharelado;5;15.0;-200.0
+2025;2;CPCS;Engenharia Florestal - Bacharelado;2;4.0;-100.0
+2025;2;CPCX;Letras - Português - Licenciatura;1;11.0;-1000.0
+2025;2;CPCX;Sistemas de Informação - Bacharelado;2;8.0;-300.0
+2025;2;CPNA;Engenharia de Produção;1;6.0;-500.0
+2025;2;CPNA;História - Licenciatura;1;4.0;-300.0
+2025;2;CPNV;Arquitetura e Urbanismo;2;19.0;-850.0
+2025;2;CPNV;Pedagogia;3;1.0;66.7
+2025;2;CPPP;Sistemas de Informação - Bacharelado;2;2.0;0.0
+2025;2;CPTL;Enfermagem;5;29.0;-480.0
+2025;2;CPTL;Geografia;1;8.0;-700.0
+2025;2;CPTL;Letras - Português e Espanhol;1;8.0;-700.0
+2025;2;CPTL;Letras - Português e Literatura;3;10.0;-233.3
+2025;2;CPTL;Matemática;3;2.0;33.3
+2025;2;CPTL;Sistemas de Informação;9;4.0;55.6
+2025;2;ESAN;Administração - Bacharelado;4;29.0;-625.0
+2025;2;ESAN;Turismo - Bacharelado;9;9.0;0.0
+2025;2;FAALC;Audiovisual;5;15.0;-200.0
+2025;2;FAALC;Letras - Português e Inglês - Licenciatura;1;19.0;-1800.0
+2025;2;FACFAN;Engenharia de Alimentos;6;4.0;33.3
+2025;2;FACH;História;9;2.0;77.8
+2025;2;FACH;História - Licenciatura;10;16.0;-60.0
+2025;2;FACH;Psicologia - Bacharelado;1;6.0;-500.0
+2025;2;FACOM;Ciência da Computação;4;21.0;-425.0
+2025;2;FACOM;Engenharia de Computação;4;21.0;-425.0
+2025;2;FACOM;Engenharia de Software;4;35.0;-775.0
+2025;2;FACOM;Sistemas de Informação;4;25.0;-525.0
+2025;2;FADIR;Direito;66;58.0;12.1
+2025;2;FAED;Pedagogia;49;22.0;55.1
+2025;2;FAENG;Arquitetura e Urbanismo - Bacharelado;1;1.0;0.0
+2025;2;FAENG;Engenharia Civil;52;13.0;75.0
+2025;2;INBIO;Ciências Biológicas;2;24.0;-1100.0
+2025;2;INBIO;Ciências Biológicas - Bacharelado;3;17.0;-466.7
+2025;2;INFI;Engenharia Física;7;6.0;14.3
+2025;2;INFI;Física - Bacharelado;4;2.0;50.0
+2025;2;INISA;Enfermagem;1;39.0;-3800.0
+2025;2;INMA;Matemática - Licenciatura;2;1.0;50.0
+2025;2;INQUI;Química - Bacharelado em Química Tecnológica;3;2.0;33.3
+2024;1;AGEAD;Tecnologia em Processos Gerenciais;373;179.0;52.0
+2024;1;CPAN;Ciências Biológicas - Licenciatura;43;6.0;86.0
+2024;1;CPAN;Ciências Contábeis - Bacharelado;64;2.0;96.9
+2024;1;CPAN;Direito;86;4.0;95.3
+2024;1;CPAN;Geografia - Licenciatura;42;7.0;83.3
+2024;1;CPAN;História - Licenciatura;48;3.0;93.8
+2024;1;CPAN;Matemática - Licenciatura;33;2.0;93.9
+2024;1;CPAN;Psicologia;47;1.0;97.9
+2024;1;CPAN;Sistemas de Informação - Bacharelado;43;6.0;86.0
+2024;1;CPAQ;Administração;72;5.0;93.1
+2024;1;CPAQ;Ciências Biológicas;61;6.0;90.2
+2024;1;CPAQ;Geografia;41;2.0;95.1
+2024;1;CPAQ;História;35;2.0;94.3
+2024;1;CPAQ;Letras - Português e Espanhol;14;1.0;92.9
+2024;1;CPAR;Matemática - Licenciatura;16;1.0;93.8
+2024;1;CPCS;Administração;57;3.0;94.7
+2024;1;CPCS;Agronomia;61;10.0;83.6
+2024;1;CPCS;Engenharia Florestal - Bacharelado;39;2.0;94.9
+2024;1;CPCX;Enfermagem - Bacharelado;50;2.0;96.0
+2024;1;CPCX;Letras - Português - Licenciatura;30;1.0;96.7
+2024;1;CPNA;Administração - Bacharelado;53;2.0;96.2
+2024;1;CPNA;Ciências Contábeis;50;3.0;94.0
+2024;1;CPNA;Engenharia de Produção;35;8.0;77.1
+2024;1;CPNA;História - Licenciatura;19;2.0;89.5
+2024;1;CPNV;Administração;47;1.0;97.9
+2024;1;CPPP;Matemática - Licenciatura;26;2.0;92.3
+2024;1;CPPP;Sistemas de Informação - Bacharelado;40;3.0;92.5
+2024;1;CPTL;Administração;60;6.0;90.0
+2024;1;CPTL;Ciências Biológicas;68;2.0;97.1
+2024;1;CPTL;Ciências Contábeis;54;5.0;90.7
+2024;1;CPTL;Enfermagem;43;3.0;93.0
+2024;1;CPTL;Engenharia de Produção;55;3.0;94.5
+2024;1;CPTL;Geografia;16;1.0;93.8
+2024;1;CPTL;História;50;4.0;92.0
+2024;1;CPTL;Sistemas de Informação - Bacharelado;63;1.0;98.4
+2024;1;ESAN;Administração - Bacharelado;126;50.0;60.3
+2024;1;ESAN;Ciências Contábeis - Bacharelado;70;4.0;94.3
+2024;1;ESAN;Ciências Econômicas - Bacharelado;68;4.0;94.1
+2024;1;ESAN;Curso Superior de Tecnologia em Processos Gerenciais;65;7.0;89.2
+2024;1;ESAN;Turismo - Bacharelado;48;1.0;97.9
+2024;1;FAALC;Artes Visuais - Bacharelado - Habilitação em Artes Plásticas;41;3.0;92.7
+2024;1;FAALC;Artes Visuais - Licenciatura - Habilitação em Artes Plásticas;31;1.0;96.8
+2024;1;FAALC;Audiovisual;34;1.0;97.1
+2024;1;FAALC;Jornalismo;52;7.0;86.5
+2024;1;FAALC;Letras - Português e Espanhol - Licenciatura;51;2.0;96.1
+2024;1;FAALC;Letras – Português e Inglês - Licenciatura;58;5.0;91.4
+2024;1;FAALC;Música;35;5.0;85.7
+2024;1;FACFAN;Farmácia;59;1.0;98.3
+2024;1;FACFAN;Nutrição;55;3.0;94.5
+2024;1;FACH;Ciências Sociais;65;4.0;93.8
+2024;1;FACH;Filosofia;60;5.0;91.7
+2024;1;FACH;História - Licenciatura;71;11.0;84.5
+2024;1;FACH;Psicologia - Bacharelado;69;4.0;94.2
+2024;1;FACOM;Ciência da Computação;77;5.0;93.5
+2024;1;FACOM;Engenharia de Computação;76;9.0;88.2
+2024;1;FACOM;Engenharia de Software;85;12.0;85.9
+2024;1;FACOM;Sistemas de Informação;90;6.0;93.3
+2024;1;FADIR;Direito;74;27.0;63.5
+2024;1;FAED;Educação Física;54;2.0;96.3
+2024;1;FAED;Educação Física - Bacharelado;53;2.0;96.2
+2024;1;FAED;Pedagogia;66;19.0;71.2
+2024;1;FAENG;Arquitetura e Urbanismo - Bacharelado;63;11.0;82.5
+2024;1;FAENG;Engenharia Ambiental;72;2.0;97.2
+2024;1;FAENG;Engenharia Civil;68;14.0;79.4
+2024;1;FAENG;Engenharia de Produção;78;2.0;97.4
+2024;1;FAENG;Geografia - Bacharelado;44;2.0;95.5
+2024;1;FAMED;Medicina - Bacharelado;1;6.0;-500.0
+2024;1;FAMEZ;Medicina Veterinária;53;5.0;90.6
+2024;1;FAMEZ;Zootecnia - Bacharelado;66;2.0;97.0
+2024;1;INBIO;Ciências Biológicas;64;5.0;92.2
+2024;1;INBIO;Ciências Biológicas - Bacharelado;55;3.0;94.5
+2024;1;INFI;Física;36;2.0;94.4
+2024;1;INISA;Enfermagem;50;1.0;98.0
+2024;1;INISA;Fisioterapia;43;4.0;90.7
+2024;1;INQUI;Engenharia Química;58;5.0;91.4
+2024;1;INQUI;Química - Bacharelado em Química Tecnológica;30;2.0;93.3
+2024;1;INQUI;Química - Licenciatura;56;4.0;92.9
+2024;2;AGEAD;Curso Superior de Tecnologia em Gestão Comercial;44;9.0;79.5
+2024;2;CPAQ;Geografia;8;10.0;-25.0
+2024;2;CPAQ;História;2;7.0;-250.0
+2024;2;CPAQ;Matemática;4;5.0;-25.0
+2024;2;CPAR;Matemática - Licenciatura;2;7.0;-250.0
+2024;2;CPNA;História - Licenciatura;2;1.0;50.0
+2024;2;CPPP;Matemática - Licenciatura;1;5.0;-400.0
+2024;2;CPPP;Sistemas de Informação - Bacharelado;4;7.0;-75.0
+2024;2;CPTL;Ciências Biológicas;5;17.0;-240.0
+2024;2;CPTL;Direito;2;78.0;-3800.0
+2024;2;CPTL;Engenharia de Produção;3;7.0;-133.3
+2024;2;CPTL;Geografia;5;2.0;60.0
+2024;2;CPTL;Geografia - Bacharelado;3;2.0;33.3
+2024;2;CPTL;Letras - Português e Espanhol;2;2.0;0.0
+2024;2;CPTL;Letras - Português e Literatura;9;5.0;44.4
+2024;2;CPTL;Matemática;19;6.0;68.4
+2024;2;ESAN;Administração - Bacharelado;2;35.0;-1650.0
+2024;2;ESAN;Turismo - Bacharelado;3;5.0;-66.7
+2024;2;FAALC;Jornalismo;3;30.0;-900.0
+2024;2;FAALC;Letras - Português e Espanhol - Licenciatura;6;5.0;16.7
+2024;2;FAALC;Música;4;5.0;-25.0
+2024;2;FACFAN;Engenharia de Alimentos;7;5.0;28.6
+2024;2;FACH;Ciências Sociais;16;10.0;37.5
+2024;2;FACH;Filosofia;16;13.0;18.8
+2024;2;FACOM;Ciência da Computação;7;14.0;-100.0
+2024;2;FACOM;Engenharia de Computação;6;21.0;-250.0
+2024;2;FACOM;Engenharia de Software;3;37.0;-1133.3
+2024;2;FACOM;Sistemas de Informação;5;8.0;-60.0
+2024;2;FADIR;Direito;67;65.0;3.0
+2024;2;FAED;Educação do Campo;2;8.0;-300.0
+2024;2;FAED;Educação Física;3;9.0;-200.0
+2024;2;FAED;Educação Física - Bacharelado;2;12.0;-500.0
+2024;2;FAED;Pedagogia;58;30.0;48.3
+2024;2;FAENG;Arquitetura e Urbanismo - Bacharelado;1;25.0;-2400.0
+2024;2;FAENG;Engenharia Civil;52;12.0;76.9
+2024;2;FAENG;Geografia - Bacharelado;8;12.0;-50.0
+2024;2;INBIO;Ciências Biológicas;1;16.0;-1500.0
+2024;2;INBIO;Ciências Biológicas - Bacharelado;1;18.0;-1700.0
+2024;2;INFI;Engenharia Física;12;3.0;75.0
+2024;2;INFI;Física;10;2.0;80.0
+2024;2;INISA;Enfermagem;1;31.0;-3000.0
+2024;2;INMA;Matemática - Bacharelado;8;1.0;87.5
+2024;2;INQUI;Engenharia Química;10;2.0;80.0
+2024;2;INQUI;Química - Bacharelado em Química Tecnológica;3;3.0;0.0
+2024;2;INQUI;Química - Licenciatura;6;1.0;83.3
+2023;1;CPAN;Ciências Biológicas;50;2.0;96.0
+2023;1;CPAN;Ciências Contábeis;57;3.0;94.7
+2023;1;CPAN;Direito ;62;2.0;96.8
+2023;1;CPAN;Geografia;23;8.0;65.2
+2023;1;CPAN;Letras - Licenciatura - Habilitação em Português/Inglês;1;2.0;-100.0
+2023;1;CPAN;Matemática - Licenciatura;15;1.0;93.3
+2023;1;CPAQ;Administração ;63;6.0;90.5
+2023;1;CPAQ;Geografia;46;14.0;69.6
+2023;1;CPAQ;História;22;2.0;90.9
+2023;1;CPAQ;Matemática;23;2.0;91.3
+2023;1;CPAQ;Pedagogia ;51;1.0;98.0
+2023;1;CPAR;Administração;61;12.0;80.3
+2023;1;CPAR;Matemática - Licenciatura;28;2.0;92.9
+2023;1;CPCS;Agronomia - Bacharelado;3;21.0;-600.0
+2023;1;CPCS;Engenharia Florestal - Bacharelado;19;7.0;63.2
+2023;1;CPCX;Enfermagem - Bacharelado;51;1.0;98.0
+2023;1;CPCX;Letras -  Português - Licenciatura;2;1.0;50.0
+2023;1;CPCX;Sistemas de Informação - Bacharelado;55;1.0;98.2
+2023;1;CPNA;Administração - Bacharelado;60;3.0;95.0
+2023;1;CPNA;Engenharia de Produção;52;1.0;98.1
+2023;1;CPPP;Matemática - Licenciatura;13;2.0;84.6
+2023;1;CPPP;Sistemas de Informação - Bacharelado;42;2.0;95.2
+2023;1;CPTL;Administração ;59;21.0;64.4
+2023;1;CPTL;Ciências Biológicas;40;3.0;92.5
+2023;1;CPTL;Ciências Contábeis ;53;1.0;98.1
+2023;1;CPTL;Enfermagem;41;7.0;82.9
+2023;1;CPTL;Engenharia de Produção;59;11.0;81.4
+2023;1;CPTL;Geografia;30;1.0;96.7
+2023;1;CPTL;Sistemas de Informação - Bacharelado;64;4.0;93.8
+2023;1;ESAN;Administração - Bacharelado;138;47.0;65.9
+2023;1;ESAN;Ciências Contábeis - Bacharelado;76;6.0;92.1
+2023;1;ESAN;Ciências Econômicas - Bacharelado;62;6.0;90.3
+2023;1;ESAN;Curso Superior de Tecnologia em Processos Gerenciais;69;6.0;91.3
+2023;1;ESAN;Turismo - Bacharelado;41;6.0;85.4
+2023;1;FAALC;Artes Visuais - Bacharelado -  Habilitação em Artes Plásticas;4;1.0;75.0
+2023;1;FAALC;Audiovisual;28;1.0;96.4
+2023;1;FAALC;Jornalismo;52;7.0;86.5
+2023;1;FAALC;Letras - Português e Espanhol - Licenciatura;17;1.0;94.1
+2023;1;FAALC;Música - Licenciatura;1;8.0;-700.0
+2023;1;FACFAN;Nutrição;52;11.0;78.8
+2023;1;FACH;Filosofia - Licenciatura;2;4.0;-100.0
+2023;1;FACH;História - Licenciatura;73;9.0;87.7
+2023;1;FACH;Psicologia - Bacharelado;62;4.0;93.5
+2023;1;FACOM;Ciência da Computação;69;2.0;97.1
+2023;1;FACOM;Engenharia de Computação;71;3.0;95.8
+2023;1;FACOM;Engenharia de Software;73;13.0;82.2
+2023;1;FACOM;Sistemas de Informação ;83;6.0;92.8
+2023;1;FADIR;Direito;66;35.0;47.0
+2023;1;FAED;Educação do Campo;14;3.0;78.6
+2023;1;FAED;Educação do Campo - Licenciatura;1;3.0;-200.0
+2023;1;FAED;Educação Física - Bacharelado;51;4.0;92.2
+2023;1;FAENG;Arquitetura e Urbanismo - Bacharelado;50;11.0;78.0
+2023;1;FAENG;Geografia - Bacharelado;51;1.0;98.0
+2023;1;FAMEZ;Zootecnia - Bacharelado;61;4.0;93.4
+2023;1;FAODO;Odontologia - Bacharelado;61;1.0;98.4
+2023;1;INBIO;Ciências Biológicas;59;5.0;91.5
+2023;1;INBIO;Ciências Biológicas - Bacharelado;52;3.0;94.2
+2023;1;INISA;Enfermagem;52;2.0;96.2
+2023;1;INISA;Fisioterapia ;41;8.0;80.5
+2023;1;INQUI;Química - Bacharelado em Química Tecnológica;33;3.0;90.9
+2023;1;INQUI;Química - Licenciatura;60;5.0;91.7
+2023;2;CPAN;Geografia;2;17.0;-750.0
+2023;2;CPAN;Matemática - Licenciatura;5;13.0;-160.0
+2023;2;CPAN;Psicologia ;4;13.0;-225.0
+2023;2;CPAN;Sistemas de Informação - Bacharelado;1;9.0;-800.0
+2023;2;CPAQ;Geografia;12;24.0;-100.0
+2023;2;CPAQ;História;7;7.0;0.0
+2023;2;CPAQ;Letras - Português e Espanhol;2;5.0;-150.0
+2023;2;CPAQ;Letras - Português e Inglês;2;6.0;-200.0
+2023;2;CPAQ;Matemática;3;14.0;-366.7
+2023;2;CPAR;Matemática - Licenciatura;2;15.0;-650.0
+2023;2;CPCS;Administração ;5;7.0;-40.0
+2023;2;CPCS;Engenharia Florestal - Bacharelado;7;6.0;14.3
+2023;2;CPCX;Enfermagem - Bacharelado;3;26.0;-766.7
+2023;2;CPCX;Sistemas de Informação - Bacharelado;3;6.0;-100.0
+2023;2;CPNA;Administração - Bacharelado;2;15.0;-650.0
+2023;2;CPNA;História - Licenciatura;2;17.0;-750.0
+2023;2;CPPP;Matemática - Licenciatura;2;6.0;-200.0
+2023;2;CPPP;Sistemas de Informação - Bacharelado;4;12.0;-200.0
+2023;2;CPTL;Ciências Biológicas;1;16.0;-1500.0
+2023;2;CPTL;Ciências Contábeis ;5;15.0;-200.0
+2023;2;CPTL;Engenharia de Produção;6;12.0;-100.0
+2023;2;CPTL;Geografia;2;15.0;-650.0
+2023;2;CPTL;Sistemas de Informação - Bacharelado;8;9.0;-12.5
+2023;2;ESAN;Administração - Bacharelado;20;37.0;-85.0
+2023;2;ESAN;Ciências Contábeis - Bacharelado;9;32.0;-255.6
+2023;2;ESAN;Curso Superior de Tecnologia em Processos Gerenciais;1;29.0;-2800.0
+2023;2;ESAN;Turismo - Bacharelado;7;18.0;-157.1
+2023;2;FAALC;Artes Visuais - Licenciatura - Habilitação em Artes Plásticas;2;17.0;-750.0
+2023;2;FACFAN;Engenharia de Alimentos;8;2.0;75.0
+2023;2;FACFAN;Nutrição;1;22.0;-2100.0
+2023;2;FACOM;Ciência da Computação;12;20.0;-66.7
+2023;2;FACOM;Engenharia de Computação;12;19.0;-58.3
+2023;2;FACOM;Engenharia de Software;11;32.0;-190.9
+2023;2;FACOM;Sistemas de Informação ;13;16.0;-23.1
+2023;2;FADIR;Direito;70;71.0;-1.4
+2023;2;FAED;Educação do Campo;3;8.0;-166.7
+2023;2;FAED;Educação Física - Bacharelado;1;20.0;-1900.0
+2023;2;FAED;Pedagogia;76;2.0;97.4
+2023;2;FAENG;Arquitetura e Urbanismo - Bacharelado;5;17.0;-240.0
+2023;2;FAENG;Geografia - Bacharelado;15;5.0;66.7
+2023;2;INBIO;Ciências Biológicas;1;27.0;-2600.0
+2023;2;INBIO;Ciências Biológicas - Bacharelado;1;19.0;-1800.0
+2023;2;INFI;Física - Bacharelado;7;6.0;14.3
+2023;2;INMA;Matemática - Bacharelado;7;2.0;71.4
+2023;2;INQUI;Engenharia Química ;6;2.0;66.7
+2023;2;INQUI;Química - Bacharelado em Química Tecnológica;3;4.0;-33.3
+2023;2;INQUI;Química - Licenciatura;13;5.0;61.5
+2022;1;CPAN;Administração - Bacharelado;4;3.0;25.0
+2022;1;CPAN;Ciências Biológicas;47;3.0;93.6
+2022;1;CPAN;Ciências Contábeis;51;6.0;88.2
+2022;1;CPAN;Direito - Bacharelado;1;6.0;-500.0
+2022;1;CPAN;Educação Física - Licenciatura;1;4.0;-300.0
+2022;1;CPAN;Geografia - Licenciatura;1;1.0;0.0
+2022;1;CPAN;História - Licenciatura;42;2.0;95.2
+2022;1;CPAN;Matemática - Licenciatura;21;2.0;90.5
+2022;1;CPAN;Pedagogia - Licenciatura;9;1.0;88.9
+2022;1;CPAN;Psicologia ;43;3.0;93.0
+2022;1;CPAN;Sistemas de Informação - Bacharelado;38;5.0;86.8
+2022;1;CPAQ;Ciências Biológicas - Licenciatura;3;2.0;33.3
+2022;1;CPAQ;Geografia - Bacharelado;1;3.0;-200.0
+2022;1;CPAQ;História - Licenciatura;1;3.0;-200.0
+2022;1;CPAQ;Letras - Licenciatura - Habilitação em Português e Inglês;2;2.0;0.0
+2022;1;CPAQ;Pedagogia - Licenciatura;2;5.0;-150.0
+2022;1;CPAR;Administração;48;1.0;97.9
+2022;1;CPAR;Matemática - Licenciatura;19;2.0;89.5
+2022;1;CPCS;Administração - Bacharelado;3;5.0;-66.7
+2022;1;CPCS;Agronomia - Bacharelado;55;22.0;60.0
+2022;1;CPCS;Engenharia Florestal - Bacharelado;22;7.0;68.2
+2022;1;CPCX;Enfermagem - Bacharelado;41;8.0;80.5
+2022;1;CPCX;Letras -  Português - Licenciatura;37;1.0;97.3
+2022;1;CPCX;Sistemas de Informação - Bacharelado;34;1.0;97.1
+2022;1;CPNA;Administração - Bacharelado;57;6.0;89.5
+2022;1;CPNA;Ciências Contábeis - Bacharelado;1;3.0;-200.0
+2022;1;CPNA;História - Licenciatura;20;2.0;90.0
+2022;1;CPNV;Administração - Bacharelado;3;5.0;-66.7
+2022;1;CPNV;Ciências Sociais - Licenciatura;17;3.0;82.4
+2022;1;CPPP;Matemática - Licenciatura;12;3.0;75.0
+2022;1;CPPP;Pedagogia - Licenciatura;11;5.0;54.5
+2022;1;CPPP;Sistemas de Informação - Bacharelado;29;2.0;93.1
+2022;1;CPTL;Administração - Bacharelado;2;3.0;-50.0
+2022;1;CPTL;Ciências Biológicas;27;3.0;88.9
+2022;1;CPTL;Direito - Bacharelado;6;27.0;-350.0
+2022;1;CPTL;Enfermagem - Bacharelado;2;4.0;-100.0
+2022;1;CPTL;Engenharia de Produção;46;10.0;78.3
+2022;1;CPTL;Geografia - Licenciatura;2;2.0;0.0
+2022;1;CPTL;Letras - Licenciatura - Habilitação em Português/Inglês;1;4.0;-300.0
+2022;1;CPTL;Letras - Português e Espanhol - Licenciatura;2;2.0;0.0
+2022;1;CPTL;Letras  Português e Literatura - Licenciatura;4;1.0;75.0
+2022;1;CPTL;Matemática - Licenciatura;4;2.0;50.0
+2022;1;CPTL;Medicina - Bacharelado;3;56.0;-1766.7
+2022;1;CPTL;Pedagogia - Licenciatura;1;2.0;-100.0
+2022;1;CPTL;Sistemas de Informação - Bacharelado;52;1.0;98.1
+2022;1;ESAN;Administração - Bacharelado;128;27.0;78.9
+2022;1;ESAN;Ciências Contábeis - Bacharelado;63;4.0;93.7
+2022;1;ESAN;Ciências Econômicas - Bacharelado;65;8.0;87.7
+2022;1;ESAN;Curso Superior de Tecnologia em Processos Gerenciais;5;8.0;-60.0
+2022;1;ESAN;Turismo - Bacharelado;52;5.0;90.4
+2022;1;FAALC;Artes Visuais - Bacharelado -  Habilitação em Artes Plásticas;32;5.0;84.4
+2022;1;FAALC;Artes Visuais - Licenciatura - Habilitação em Artes Plásticas;31;2.0;93.5
+2022;1;FAALC;Música - Licenciatura;27;2.0;92.6
+2022;1;FACFAN;Farmácia ;6;8.0;-33.3
+2022;1;FACFAN;Nutrição;52;12.0;76.9
+2022;1;FACH;Ciências Sociais - Bacharelado;51;3.0;94.1
+2022;1;FACH;Filosofia - Licenciatura;57;1.0;98.2
+2022;1;FACH;História - Licenciatura;61;7.0;88.5
+2022;1;FACH;Psicologia - Bacharelado;52;36.0;30.8
+2022;1;FACOM;Ciência da Computação - Bacharelado;5;5.0;0.0
+2022;1;FACOM;Engenharia de Computação - Bacharelado;6;7.0;-16.7
+2022;1;FACOM;Engenharia de Software - Bacharelado;2;14.0;-600.0
+2022;1;FACOM;Sistemas de Informação ;81;7.0;91.4
+2022;1;FADIR;Direito;79;38.0;51.9
+2022;1;FAED;Educação Física - Bacharelado;50;1.0;98.0
+2022;1;FAED;Educação Física - Licenciatura;1;6.0;-500.0
+2022;1;FAED;Pedagogia - Licenciatura;7;31.0;-342.9
+2022;1;FAENG;Arquitetura e Urbanismo - Bacharelado;53;8.0;84.9
+2022;1;FAENG;Engenharia Ambiental - Bacharelado;7;6.0;14.3
+2022;1;FAENG;Engenharia Civil - Bacharelado;3;8.0;-166.7
+2022;1;FAENG;Engenharia de Produção - Bacharelado;7;15.0;-114.3
+2022;1;FAENG;Engenharia Elétrica - Bacharelado;2;5.0;-150.0
+2022;1;FAENG;Geografia - Bacharelado;49;4.0;91.8
+2022;1;FAMEZ;Medicina Veterinária - Bacharelado;1;4.0;-300.0
+2022;1;FAMEZ;Zootecnia - Bacharelado;52;15.0;71.2
+2022;1;INBIO;Ciências Biológicas - Bacharelado;51;4.0;92.2
+2022;1;INBIO;Ciências Biológicas - Licenciatura;3;1.0;66.7
+2022;1;INFI;Física - Bacharelado;28;2.0;92.9
+2022;1;INFI;Física - Licenciatura;3;6.0;-100.0
+2022;1;INISA;Enfermagem - Bacharelado;2;4.0;-100.0
+2022;1;INISA;Fisioterapia - Bacharelado;1;5.0;-400.0
+2022;1;INMA;Matemática - Licenciatura;50;4.0;92.0
+2022;1;INQUI;Química - Bacharelado em Química Tecnológica;42;3.0;92.9
+2022;1;INQUI;Química - Licenciatura;59;4.0;93.2
+2022;2;CPAN;Matemática - Licenciatura;4;6.0;-50.0
+2022;2;CPAN;Sistemas de Informação - Bacharelado;15;8.0;46.7
+2022;2;CPAR;Matemática - Licenciatura;5;12.0;-140.0
+2022;2;CPCS;Engenharia Florestal - Bacharelado;3;9.0;-200.0
+2022;2;CPCX;Letras -  Português - Licenciatura;3;15.0;-400.0
+2022;2;CPCX;Sistemas de Informação - Bacharelado;3;3.0;0.0
+2022;2;CPNA;Administração - Bacharelado;1;23.0;-2200.0
+2022;2;CPNA;Engenharia de Produção - Bacharelado;1;7.0;-600.0
+2022;2;CPNA;História - Licenciatura;2;16.0;-700.0
+2022;2;CPPP;Matemática - Licenciatura;3;9.0;-200.0
+2022;2;CPPP;Sistemas de Informação - Bacharelado;6;10.0;-66.7
+2022;2;CPTL;Letras - Português e Espanhol - Licenciatura;1;5.0;-400.0
+2022;2;CPTL;Letras  Português e Literatura - Licenciatura;3;3.0;0.0
+2022;2;ESAN;Administração - Bacharelado;4;46.0;-1050.0
+2022;2;FACOM;Sistemas de Informação ;7;4.0;42.9
+2022;2;FADIR;Direito;88;49.0;44.3
+2022;2;FAED;Pedagogia - Licenciatura;2;36.0;-1700.0
+2022;2;FAENG;Engenharia Civil - Bacharelado;4;34.0;-750.0
+2022;2;FAMED;Medicina - Bacharelado;1;72.0;-7100.0
+2021;1;CPAN;Administração - Bacharelado;51;8.0;84.3
+2021;1;CPAN;CIÊNCIAS BIOLÓGICAS - LICENCIATURA;37;4.0;89.2
+2021;1;CPAN;CIÊNCIAS CONTÁBEIS - BACHARELADO;76;2.0;97.4
+2021;1;CPAN;Direito - Bacharelado;50;11.0;78.0
+2021;1;CPAN;Educação Física - Licenciatura;50;2.0;96.0
+2021;1;CPAN;Geografia - Licenciatura;33;1.0;97.0
+2021;1;CPAN;História - Licenciatura;41;1.0;97.6
+2021;1;CPAN;Matemática - Licenciatura;21;7.0;66.7
+2021;1;CPAN;Pedagogia - Licenciatura;51;2.0;96.1
+2021;1;CPAQ;ADMINISTRAÇÃO - BACHARELADO;53;13.0;75.5
+2021;1;CPAQ;Ciências Biológicas - Licenciatura;53;2.0;96.2
+2021;1;CPAQ;Geografia - Bacharelado;8;5.0;37.5
+2021;1;CPAQ;Geografia - Licenciatura;15;5.0;66.7
+2021;1;CPAQ;Letras - Licenciatura - Habilitação em Português e Espanhol;21;3.0;85.7
+2021;1;CPAQ;Pedagogia - Licenciatura;51;3.0;94.1
+2021;1;CPAR;Administração - Bacharelado;65;6.0;90.8
+2021;1;CPAR;Matemática - Licenciatura;29;3.0;89.7
+2021;1;CPAR;Psicologia  - Bacharelado;42;6.0;85.7
+2021;1;CPCS;Agronomia - Bacharelado;55;22.0;60.0
+2021;1;CPCS;Engenharia Florestal - Bacharelado;30;2.0;93.3
+2021;1;CPCX;ENFERMAGEM - BACHARELADO;37;7.0;81.1
+2021;1;CPCX;Letras -  Português - Licenciatura;52;12.0;76.9
+2021;1;CPNA;Administração - Bacharelado;62;7.0;88.7
+2021;1;CPNA;História - Licenciatura;20;2.0;90.0
+2021;1;CPNV;Pedagogia - Licenciatura;36;2.0;94.4
+2021;1;CPPP;Matemática - Licenciatura;17;6.0;64.7
+2021;1;CPPP;Sistemas de Informação - Bacharelado;29;2.0;93.1
+2021;1;CPTL;Administração - Bacharelado;60;16.0;73.3
+2021;1;CPTL;CIÊNCIAS BIOLÓGICAS - LICENCIATURA;40;1.0;97.5
+2021;1;CPTL;CIÊNCIAS CONTÁBEIS - BACHARELADO;52;11.0;78.8
+2021;1;CPTL;Direito - Bacharelado;129;53.0;58.9
+2021;1;CPTL;Enfermagem - Bacharelado;46;1.0;97.8
+2021;1;CPTL;ENGENHARIA DE PRODUÇÃO - BACHARELADO;52;8.0;84.6
+2021;1;CPTL;GEOGRAFIA - LICENCIATURA;23;1.0;95.7
+2021;1;CPTL;História - Licenciatura;62;2.0;96.8
+2021;1;CPTL;Letras - Licenciatura - Habilitação em Português/Inglês;47;2.0;95.7
+2021;1;CPTL;Letras - Português e Espanhol - Licenciatura;22;3.0;86.4
+2021;1;CPTL;Letras  Português e Literatura - Licenciatura;25;4.0;84.0
+2021;1;CPTL;Medicina - Bacharelado;67;15.0;77.6
+2021;1;CPTL;PEDAGOGIA - LICENCIATURA;40;8.0;80.0
+2021;1;CPTL;Sistemas de Informação - Bacharelado;68;2.0;97.1
+2021;1;ESAN;Administração - Bacharelado;128;31.0;75.8
+2021;1;ESAN;Ciências Contábeis - Bacharelado;65;15.0;76.9
+2021;1;ESAN;Ciências Econômicas - Bacharelado;58;3.0;94.8
+2021;1;ESAN;Curso Superior de Tecnologia em Processos Gerenciais;60;6.0;90.0
+2021;1;ESAN;Turismo - Bacharelado;42;10.0;76.2
+2021;1;FAALC;Artes Visuais - Bacharelado -  Habilitação em Artes Plásticas;30;6.0;80.0
+2021;1;FAALC;Artes Visuais - Licenciatura - Habilitação em Artes Plásticas;34;8.0;76.5
+2021;1;FAALC;Jornalismo - Bacharelado;53;8.0;84.9
+2021;1;FAALC;Música - Licenciatura;29;6.0;79.3
+2021;1;FACFAN;FARMÁCIA - BACHARELADO;51;2.0;96.1
+2021;1;FACFAN;NUTRIÇÃO - BACHARELADO;41;17.0;58.5
+2021;1;FACH;Ciências Sociais - Bacharelado;107;4.0;96.3
+2021;1;FACH;Filosofia - Licenciatura;112;1.0;99.1
+2021;1;FACH;História - Licenciatura;60;6.0;90.0
+2021;1;FACH;Psicologia - Bacharelado;59;20.0;66.1
+2021;1;FACOM;Ciência da Computação - Bacharelado;66;3.0;95.5
+2021;1;FACOM;Engenharia de Computação - Bacharelado;64;1.0;98.4
+2021;1;FACOM;Engenharia de Software - Bacharelado;74;8.0;89.2
+2021;1;FACOM;SISTEMAS DE INFORMAÇÃO - BACHARELADO;76;10.0;86.8
+2021;1;FADIR;Direito - Bacharelado;69;40.0;42.0
+2021;1;FADIR;DIREITO - BACHARELADO;4;1.0;75.0
+2021;1;FAED;Educação Física - Licenciatura;41;35.0;14.6
+2021;1;FAED;Pedagogia - Licenciatura;52;55.0;-5.8
+2021;1;FAENG;Arquitetura e Urbanismo - Bacharelado;57;5.0;91.2
+2021;1;FAENG;Engenharia Ambiental - Bacharelado;49;3.0;93.9
+2021;1;FAENG;Engenharia Civil - Bacharelado;53;11.0;79.2
+2021;1;FAENG;Engenharia de Produção - Bacharelado;53;14.0;73.6
+2021;1;FAENG;Engenharia Elétrica - Bacharelado;87;11.0;87.4
+2021;1;FAENG;Geografia - Bacharelado;42;5.0;88.1
+2021;1;FAMED;Medicina - Bacharelado;112;71.0;36.6
+2021;1;FAMEZ;Medicina Veterinária - Bacharelado;54;38.0;29.6
+2021;1;FAMEZ;Zootecnia - Bacharelado;55;35.0;36.4
+2021;1;FAODO;Odontologia - Bacharelado;54;3.0;94.4
+2021;1;INBIO;Ciências Biológicas - Bacharelado;53;9.0;83.0
+2021;1;INBIO;Ciências Biológicas - Licenciatura;55;14.0;74.5
+2021;1;INISA;Enfermagem - Bacharelado;53;2.0;96.2
+2021;1;INISA;Fisioterapia - Bacharelado;41;3.0;92.7
+2021;1;INMA;Matemática - Licenciatura;44;3.0;93.2
+2021;1;INQUI;Química - Bacharelado em Química Tecnológica;24;1.0;95.8
+2021;1;INQUI;Química - Licenciatura;46;6.0;87.0
+2021;2;CPAN;Direito - Bacharelado;1;30.0;-2900.0
+2021;2;CPAN;Geografia - Licenciatura;3;1.0;66.7
+2021;2;CPAN;História - Licenciatura;1;5.0;-400.0
+2021;2;CPAN;Matemática - Licenciatura;2;8.0;-300.0
+2021;2;CPAN;Pedagogia - Licenciatura;5;26.0;-420.0
+2021;2;CPAN;Sistemas de Informação - Bacharelado;1;8.0;-700.0
+2021;2;CPAQ;Ciências Biológicas - Licenciatura;4;6.0;-50.0
+2021;2;CPAQ;Geografia - Bacharelado;2;3.0;-50.0
+2021;2;CPAQ;Geografia - Licenciatura;2;20.0;-900.0
+2021;2;CPAQ;História - Licenciatura;2;5.0;-150.0
+2021;2;CPAQ;Letras - Licenciatura - Habilitação em Português e Espanhol;4;4.0;0.0
+2021;2;CPAQ;Letras - Licenciatura - Habilitação em Português e Inglês;4;6.0;-50.0
+2021;2;CPAQ;Matemática  - Licenciatura;2;18.0;-800.0
+2021;2;CPCS;Administração - Bacharelado;2;16.0;-700.0
+2021;2;CPCS;Agronomia - Bacharelado;2;15.0;-650.0
+2021;2;CPCS;Engenharia Florestal - Bacharelado;1;10.0;-900.0
+2021;2;CPCX;ENFERMAGEM - BACHARELADO;11;24.0;-118.2
+2021;2;CPCX;Sistemas de Informação - Bacharelado;3;6.0;-100.0
+2021;2;CPNA;Administração - Bacharelado;1;28.0;-2700.0
+2021;2;CPNA;Ciências Contábeis - Bacharelado;1;10.0;-900.0
+2021;2;CPPP;Matemática - Licenciatura;1;12.0;-1100.0
+2021;2;CPPP;Pedagogia - Licenciatura;1;22.0;-2100.0
+2021;2;CPPP;Sistemas de Informação - Bacharelado;2;4.0;-100.0
+2021;2;CPTL;CIÊNCIAS BIOLÓGICAS - LICENCIATURA;1;16.0;-1500.0
+2021;2;CPTL;Direito - Bacharelado;1;49.0;-4800.0
+2021;2;CPTL;ENGENHARIA DE PRODUÇÃO - BACHARELADO;1;9.0;-800.0
+2021;2;CPTL;GEOGRAFIA - LICENCIATURA;3;5.0;-66.7
+2021;2;CPTL;História - Licenciatura;1;13.0;-1200.0
+2021;2;CPTL;Letras - Licenciatura - Habilitação em Português/Inglês;2;7.0;-250.0
+2021;2;CPTL;Letras - Português e Espanhol - Licenciatura;3;6.0;-100.0
+2021;2;CPTL;Letras  Português e Literatura - Licenciatura;2;9.0;-350.0
+2021;2;CPTL;Matemática - Licenciatura;1;8.0;-700.0
+2021;2;ESAN;Administração - Bacharelado;3;44.0;-1366.7
+2021;2;ESAN;Ciências Contábeis - Bacharelado;2;29.0;-1350.0
+2021;2;ESAN;Ciências Econômicas - Bacharelado;6;2.0;66.7
+2021;2;ESAN;Curso Superior de Tecnologia em Processos Gerenciais;2;22.0;-1000.0
+2021;2;FACFAN;NUTRIÇÃO - BACHARELADO;2;8.0;-300.0
+2021;2;FACH;Ciências Sociais - Bacharelado;13;5.0;61.5
+2021;2;FACH;Filosofia - Licenciatura;4;8.0;-100.0
+2021;2;FACH;Psicologia - Bacharelado;3;18.0;-500.0
+2021;2;FACOM;Engenharia de Computação - Bacharelado;2;12.0;-500.0
+2021;2;FACOM;Engenharia de Software - Bacharelado;1;21.0;-2000.0
+2021;2;FADIR;Direito - Bacharelado;1;50.0;-4900.0
+2021;2;FAED;Educação Física - Licenciatura;3;24.0;-700.0
+2021;2;FAED;Pedagogia - Licenciatura;51;50.0;2.0
+2021;2;FAENG;Engenharia Ambiental - Bacharelado;5;9.0;-80.0
+2021;2;FAENG;Engenharia Civil - Bacharelado;52;28.0;46.2
+2021;2;FAENG;Engenharia de Produção - Bacharelado;10;15.0;-50.0
+2021;2;FAENG;Geografia - Bacharelado;2;14.0;-600.0
+2021;2;FAMED;Medicina - Bacharelado;2;9.0;-350.0
+2021;2;INFI;Física - Licenciatura;1;2.0;-100.0
+2021;2;INISA;Fisioterapia - Bacharelado;1;23.0;-2200.0
+2021;2;INMA;Matemática - Licenciatura;1;21.0;-2000.0
+2021;2;INQUI;Química - Bacharelado em Química Tecnológica;5;14.0;-180.0
+2021;2;INQUI;Química - Licenciatura;1;2.0;-100.0
